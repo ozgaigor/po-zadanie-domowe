@@ -9,8 +9,8 @@ public class PDom
         Set<String> words = new HashSet<>();
         long totalTime = 0;
 
-        File Alicja = new File("E:/alice30.txt");
-        Scanner in = new Scanner(Alicja);
+        File Zadanie = new File("E:/alice30.txt");
+        Scanner in = new Scanner(Zadanie);
         while (in.hasNext()) {
             String word = in.next();
             long callTime = System.currentTimeMillis();
