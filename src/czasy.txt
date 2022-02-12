@@ -1,2 +1,0 @@
-HashSet = 5908 unikalnych s³ów. 37 milisekund.
-TreeSet = 5908 unikalnych s³ów. 54 milisekund.
